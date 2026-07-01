@@ -21,6 +21,7 @@ End-to-end analysis of e-commerce sales performance — tracking revenue, profit
 
 [🛍️ Customer Shopping Behavior Analysis](https://github.com/Riq-wq/Customer-Shopping-Behavior-Analysis)
 Deep-dive into customer purchasing patterns to uncover behavioral segments and trends that inform marketing and retention strategy.
+https://www.codefactor.io/repository/github/riq-wq/customer-shopping-behavior-analysis/badge
 
 
 
