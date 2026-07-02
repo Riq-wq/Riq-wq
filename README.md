@@ -1,6 +1,6 @@
  Hi, I'm Hassan Jumaa 👋
 
-Data Analyst | Turning raw data into decisions
+Data Analyst / Turning raw data into decisions
 
 I specialize in business & e-commerce analytics  — cleaning messy datasets, building dashboards, and surfacing insights that actually drive decisions.
 
