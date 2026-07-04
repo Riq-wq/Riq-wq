@@ -1,0 +1,26 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi3-d/3d-contrib@master
+        with:
+          username: Riq-wq
+      - name: Commit output to profile3d branch
+        run: |
+          cd profile-3d-contrib && \
+          git init && \
+          git add -A && \
+          git config --local user.email "action@github.com" && \
+          git config --local user.name "GitHub Action" && \
+          git commit -m "Generate 3D contribution graph" && \
+          git push -f "https://${{ secrets.GITHUB_TOKEN }}@github.com/Riq-wq/Riq-wq.git" master:profile3d
