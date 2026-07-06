@@ -31,7 +31,7 @@ Workflow	Git, GitHub, VS Code
 🛍️ Customer Shopping Behavior Analysis — deep-dive into customer purchasing patterns to uncover behavioral segments and trends for marketing and retention
 🧑‍💼 Employee Hiring Analytics (Power BI + MySQL) — KPI cards, hiring trend line, and slicers over a cleaned Kenyan employee dataset (repo coming soon)
 💙 ImpactHub Foundation — nonprofit donation platform demo (React + Tailwind)
-> 🔗 Full write-ups and live demos on my **[Portfolio Site](https://riq-wq.github.io/Myportfolio/)**
+> 🔗 Full write-ups and live demos on my [Portfolio Site](https://riq-wq.github.io/Myportfolio/)
 ---
 📈 GitHub Stats
 <p align="center">
