@@ -87,12 +87,12 @@ Nonprofit donation platform demo with M-Pesa/Daraja API integration.
 
 ## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Riq-wq)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Riq-wq)
+[![](https://github-readme-stats.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/Riq-wq)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Riq-wq)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Riq-wq&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Riq-wq&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![](https://github-profile-trophy.vercel.app/?username=Riq-wq&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Riq-wq)
+[![](https://github-profile-trophy.vercel.app/?username=Riq-wq&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400)](https://github.com/Riq-wq)
 
 <br>
 
