@@ -95,10 +95,7 @@ Nonprofit donation platform demo with M-Pesa/Daraja API integration.
 [![](https://github-profile-trophy.vercel.app/?username=Riq-wq&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400)](https://github.com/Riq-wq)
 
 <br>
-
 ## 🐍 Contribution Snake
-
-[## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riq-wq/Riq-wq/output/github-contribution-grid-snake-dark.svg" />
