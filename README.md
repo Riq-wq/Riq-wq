@@ -87,8 +87,8 @@ Nonprofit donation platform demo with M-Pesa/Daraja API integration.
 
 ## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/Riq-wq)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Riq-wq)
+[![](https://github-readme-stats-tan-rho-10.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/Riq-wq)
+[![](https://github-readme-stats-tan-rho-10.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Riq-wq)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Riq-wq&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
