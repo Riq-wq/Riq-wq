@@ -20,7 +20,6 @@ I'm a Computer Science student and Data Analyst building **end-to-end analytics 
 - 📊 Turn messy datasets into clear, usable insight — cleaning in **Python/Pandas**, storing in **MySQL**, shipping in **Power BI**
 - 🛠️ Consistent pipeline pattern across projects: `Python → SQL → Power BI + DAX`
 - 💻 Also build front-end tools (**React, Vite, Tailwind CSS**) to present data and projects well
-- 🌍 Based in Mombasa, Kenya — currently on industrial attachment in a technology & data team
 - 🎯 Actively seeking **Data Analyst / BI Analyst** roles — open to remote & hybrid
 
 </td>
