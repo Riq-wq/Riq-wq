@@ -1,114 +1,121 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Jumaa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=55&descSize=16)](https://github.com/Riq-wq)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9BF0&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions%3B+Python+%7C+SQL+%7C+Power+BI+%7C+React%3B+Actively+seeking+Data+Analyst+roles)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hassan%20Jumaa&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=56&descSize=17" alt="Hassan Jumaa — Data Analyst" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://riq-wq.github.io/Myportfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrisa-juma-56a600416)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumaah933@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Riq-wq&label=Profile%20Views&color=2E9BF0&style=for-the-badge)](https://github.com/Riq-wq)
+<a href="https://riq-wq.github.io/Myportfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mrisa-juma-56a600416"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jumaah933@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br>
+<br><br>
+
+**I turn messy raw data into decisions — cleaning in Python, storing in SQL, shipping in Power BI.**
+
+🟢 **Open to Data Analyst / BI Analyst roles** · Remote or hybrid
+
+</div>
+
+---
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td>
+I'm a Computer Science student and Data Analyst who builds **end-to-end analytics pipelines** — from a raw, dirty dataset to a decision-ready dashboard.
 
-I'm a Computer Science student and Data Analyst building **end-to-end analytics pipelines** — from messy raw data to decision-ready dashboards.
+- 🔧 **One repeatable pipeline across every project:** `Python/Pandas → SQL (MySQL) → Power BI + DAX`
+- 📊 I don't stop at a chart — every project ends with a **written business recommendation**
+- 🧪 Comfortable with the unglamorous part: missing values, duplicates, type fixes, and joins that don't behave
+- 💻 I also build **React/Tailwind** front-ends, so I can present findings as a real product, not just a notebook
+- 🎯 Currently deepening **advanced SQL** and **data modeling / star schema**
 
-- 📊 Turn messy datasets into clear, usable insight — cleaning in **Python/Pandas**, storing in **MySQL**, shipping in **Power BI**
-- 🛠️ Consistent pipeline pattern across projects: `Python → SQL → Power BI + DAX`
-- 💻 Also build front-end tools (**React, Vite, Tailwind CSS**) to present data and projects well
-- 🎯 Actively seeking **Data Analyst / BI Analyst** roles — open to remote & hybrid
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧰 Tech Stack
-
-[![](https://skillicons.dev/icons?i=python,mysql,powerbi,react,vite,tailwind,git,github,vscode,figma)](https://skillicons.dev)
-
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **Data & BI** | MySQL, Power BI, Pandas, DAX, Excel |
-| **Front-End** | React, Vite, Tailwind CSS |
-| **Workflow** | Git, GitHub, VS Code |
-
-<br>
+---
 
 ## 📌 Featured Projects
 
+> Every project below is end-to-end and 100% my own work. Click any card to see the code, the dashboard, and the written insight.
+
 <table>
-<tr>
-
-
-### 🛒 E-commerce Sales Dashboard
-End-to-end analysis of sales performance — revenue, profit, and order trends with an interactive dashboard for category and regional breakdowns.
-<br>`Power BI` `DAX`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛍️ Customer Shopping Behavior Analysis
-Deep-dive into customer purchasing patterns to uncover behavioral segments and trends for marketing and retention.
-<br>`Python` `Pandas`
-
-</td>
-<td width="50%">
-
-### 🧑‍💼 Employee Hiring Analytics
-KPI cards, hiring trend line, and slicers over a cleaned Kenyan-city employee dataset, plus a PDF report generated with ReportLab.
-<br>`Power BI` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 💙 ImpactHub Foundation
-Nonprofit donation platform demo with M-Pesa/Daraja API integration.
-<br>`React` `Tailwind CSS` `Firebase`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/Riq-wq/ecommerce-sales-dashboard">E-commerce Sales Dashboard</a></h3>
+      Interactive Power BI dashboard analysing a full year (2018) of online sales — revenue, profit, order trends, and category/regional breakdowns.<br><br>
+      <b>Outcome:</b> Identified the top-performing categories and the loss-making segments behind declining margins.<br><br>
+      <code>Power BI</code> <code>DAX</code> <code>Data Modeling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/Riq-wq/Customer-Shopping-Behavior-Analysis">Customer Shopping Behavior Analysis</a></h3>
+      Behavioural segmentation over <b>3,900 purchases</b> to find which customer groups drive repeat revenue and should be targeted for retention.<br><br>
+      <b>Outcome:</b> Surfaced the highest-value customer segments and the gaps in retention strategy.<br><br>
+      <code>Python</code> <code>Pandas</code> <code>EDA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 <a href="https://github.com/Riq-wq/employee-salary-headcount-dashboard">Employee Salary &amp; Headcount Dashboard</a></h3>
+      Full HR analytics pipeline — cleaned with Python, stored in MySQL, queried with SQL, and shipped as a Power BI dashboard with automated PDF reporting.<br><br>
+      <b>Outcome:</b> Exposed salary and headcount imbalances across departments and cities to support hiring decisions.<br><br>
+      <code>Python</code> <code>MySQL</code> <code>Power BI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏬 <a href="https://github.com/Riq-wq/superstore-sales-profitability-analysis">Superstore Profitability Analysis</a></h3>
+      Analyzed <b>9,994 orders</b> across product lines to answer where profit actually comes from — and where discounting is quietly destroying it.<br><br>
+      <b>Outcome:</b> Pinpointed discount bands and product groups generating negative profit.<br><br>
+      <code>Python</code> <code>MySQL</code> <code>SQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Riq-wq/vrinda-store-sales-analytics">Vrinda Store Sales Analytics</a></h3>
+      Excel/Power Query analysis of <b>31,000+ e-commerce orders</b> across 7 sales channels, delivered as a pivot dashboard plus a written report.<br><br>
+      <b>Outcome:</b> Ranked channels and customer demographics by revenue contribution.<br><br>
+      <code>Excel</code> <code>Power Query</code> <code>Pivot Tables</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕸️ <a href="https://github.com/Riq-wq/books-toscrape-web-scraping-etl">Web Scraping ETL Pipeline</a></h3>
+      An end-to-end ETL pipeline that scrapes <b>1,000 book listings</b> from a live site, cleans them in Pandas, and loads them into MySQL.<br><br>
+      <b>Outcome:</b> A reusable, repeatable pipeline — demonstrating extraction, transformation, and loading end to end.<br><br>
+      <code>Python</code> <code>BeautifulSoup</code> <code>Pandas</code> <code>MySQL</code>
+    </td>
+  </tr>
 </table>
 
-> 🔗 Full write-ups and live demos on my **[Portfolio Site](https://riq-wq.github.io/Myportfolio/)**
+> 🔗 Longer write-ups, live demos, and dashboard screenshots: **[my portfolio site](https://riq-wq.github.io/Myportfolio/)**
 
-<br>
+---
 
-## 📈 GitHub Stats
+## 🧰 Tech Stack
 
-[![](https://github-readme-stats-tan-rho-10.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/Riq-wq)
-[![](https://github-readme-stats-tan-rho-10.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Riq-wq)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Riq-wq&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,react,vite,tailwind,git,github,vscode,figma" alt="Tech stack icons" />
 
-[![](https://github-profile-trophy.vercel.app/?username=Riq-wq&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400)](https://github.com/Riq-wq)
+</div>
 
-<br>
+| Category | Tools |
+| --- | --- |
+| **Languages** | Python, SQL |
+| **Data & BI** | Pandas, MySQL, Power BI, DAX, Excel, Power Query |
+| **Front-End** | React, Vite, Tailwind CSS |
+| **Workflow** | Git, GitHub, VS Code |
 
-## 🐍 Contribution Snake
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riq-wq/Riq-wq/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riq-wq/Riq-wq/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Riq-wq/Riq-wq/output/github-contribution-grid-snake.svg" />
-</picture>
+## 📈 GitHub Activity
 
-## 🌐 3D Contribution Graph
+<div align="center">
 
-[![3d contribution graph](https://raw.githubusercontent.com/Riq-wq/Riq-wq/main/profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/Riq-wq/Riq-wq/main/profile-3d-contrib/profile-night-rainbow.svg)
+<img height="165" src="https://github-readme-stats-tan-rho-10.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-tan-rho-10.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
-<br>
+</div>
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/Riq-wq)
+---
 
-<p align="center"><i>Open to Data Analyst roles — let's connect 👇</i></p>
+<div align="center">
+
+**Let's talk data.** If you're hiring, or just want to compare notes on a project — my inbox is open.
+
+<a href="mailto:jumaah933@gmail.com"><img src="https://img.shields.io/badge/jumaah933@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mrisa-juma-56a600416"><img src="https://img.shields.io/badge/LinkedIn-mrisa--juma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" alt="footer" />
+
+</div>
