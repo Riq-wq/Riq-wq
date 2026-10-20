@@ -102,7 +102,7 @@ I'm a Computer Science student and Data Analyst who builds **end-to-end analytic
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-tan-rho-10.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-tan-rho-10.vercel.app/api?username=Riq-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&commits_year=2026" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-tan-rho-10.vercel.app/api/top-langs/?username=Riq-wq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 </div>
