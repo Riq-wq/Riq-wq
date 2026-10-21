@@ -50,8 +50,8 @@ I'm a Computer Science student and Data Analyst who builds **end-to-end analytic
   <tr>
     <td width="50%" valign="top">
       <h3>🧑‍💼 <a href="https://github.com/Riq-wq/employee-salary-headcount-dashboard">Employee Salary &amp; Headcount Dashboard</a></h3>
-      Full HR analytics pipeline — cleaned a messy HR export with Python, stored it in MySQL, queried it with SQL, and shipped a Power BI dashboard plus a reproducible, auto-generated PDF report. Runs unattended: a scheduled job validates the data first and refuses to load it if anything fails.<br><br>
-      <b>Outcome:</b> Cleaning changed the headline — the raw average of KES 151,111 was <b>145% above</b> the true KES 61,611, caused by one 10x salary typo and a duplicate row. Nairobi pays highest and Kisumu has the largest headcount, with KES 554,500 in total salary expense.<br><br>
+      Full HR analytics pipeline — cleaned a messy HR export with Python, stored it in MySQL, queried it with SQL, and shipped a Power BI dashboard plus a reproducible, auto-generated PDF report. Runs unattended: 15 data-quality checks gate every load, and each successful run is committed to git as an audit trail of the data.<br><br>
+      <b>Outcome:</b> Cleaning changed the headline — the raw average of KES 151,111 was <b>145% above</b> the true KES 61,611, caused by one 10x salary typo and a duplicate row. The city pay gap doesn't hold up either: Nairobi's top average comes from one senior hire, not a location premium. Total salary bill: KES 554,500.<br><br>
       <code>Python</code> <code>MySQL</code> <code>Power BI</code> <code>ReportLab</code> <code>Automation</code>
     </td>
     <td width="50%" valign="top">
